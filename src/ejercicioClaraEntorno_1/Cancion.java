@@ -169,6 +169,7 @@ public class Cancion {
 	 */
 	@Override
 	public String toString() {
-		return "Cancion [titulo=" + titulo + ", autor=" + grupo + ", duracion=" + duracion + ", sonando=" + sonando+ "]";
+		return "Datos de la canción [titulo=" + titulo + ", autor=" +  grupo + ", duracion=" + duracion + ", sonando=" + sonando 
+				+ "]";
 	}
 }
